@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/muiz/Рабочий стол/IT/Lessons & Projects/bookmarks/venv/bin/python3" "$0" "$@"
+'''exec' "/home/muiz/Муиз/IT/Lessons & Projects/bookmarks/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
